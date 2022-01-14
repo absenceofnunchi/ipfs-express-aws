@@ -4,11 +4,8 @@
   "description": "",
   "dependencies": {
     "express": "^4.17.1",
-    "ipfs-http-client": "^52.0.4-rc.4",
+    "ipfs-http-client": "^52.0.5",
     "multiparty": "^4.2.2",
     "serverless-http": "^2.7.0"
-  },
-  "devDependencies": {
-    "serverless-offline": "^8.3.1"
   }
 }
